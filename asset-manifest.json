@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/bank-calculator/static/js/main.cd8c798e.js",
+    "static/js/787.527e46c7.chunk.js": "/bank-calculator/static/js/787.527e46c7.chunk.js",
+    "index.html": "/bank-calculator/index.html",
+    "main.cd8c798e.js.map": "/bank-calculator/static/js/main.cd8c798e.js.map",
+    "787.527e46c7.chunk.js.map": "/bank-calculator/static/js/787.527e46c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd8c798e.js"
+  ]
+}
